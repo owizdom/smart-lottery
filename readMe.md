@@ -10,7 +10,8 @@ The contract also includes features like:
 
 - Prize Claiming
 
-  #### Developed using REMIX ( i have not been using the awesome Foundry due to poor system resources ) 
+  #### Developed using REMIX - So far, I have been loving using Remix
+     #### ( i have not been using the awesome Foundry due to poor system resources) 
 
 #### Notes
 
