@@ -10,6 +10,8 @@ The contract also includes features like:
 
 - Prize Claiming
 
+  #### Developed using REMIX ( i have not been using the awesome Foundry due to poor system resources ) 
+
 #### Notes
 
 Plan to deploy to a testnet sooon enough when I am done adding few more features and doing basic optimizations( will learn it soon enough so...till then)
